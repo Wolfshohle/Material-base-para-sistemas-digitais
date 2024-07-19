@@ -5,6 +5,7 @@
 - [1. Introdução](#1-introdução)
 - [2. Instalação](#2-instalação)
   - [2.1 Instalação do Quartus e Questa](#21-instalação-do-quartus-e-questa)
+    -[2.1.1 Primeiros passos](#21-Primeiros-passos) 
   - [2.2 Gerando a licença de ativação do Questa](#22-gerando-a-licença-de-ativação-do-questa)
   - [2.3 Possíveis erros de instalação e soluções](#23-possíveis-erros-de-instalação-e-soluções)
 - [3. Projeto](#3-projeto)
@@ -38,6 +39,7 @@ Este repositório é um recurso complementar destinado aos estudantes da discipl
 ### 2.1 Instalação do Quartus e Questa
 Esta seção é dedicada à instalação do programa Quartus e do simulador Questa, que serão fundamentais para a montagem e simulação dos circuitos durante o curso. Essas ferramentas serão utilizadas para o desenvolvimento prático dos projetos abordados na disciplina.
 
+#### 2.1.1 Primeiros passos
 Para iniciar a instalação, é necessário realizar o download dos softwares Quartus e Questa. Para baixar os softwares, acesse o link abaixo:
 
 [Download do Quartus e Questa](https://www.intel.com.br/content/www/br/pt/products/details/fpga/development-tools/quartus-prime/resource.html)
