@@ -31,7 +31,7 @@
 
 ## 1. Introdução
 
-Este repositório contém o projeto e a simulação de diversos circuitos lógicos utilizando Quartus e Questa.
+Este repositório é um recurso complementar destinado aos estudantes da disciplina de sistemas digitais ministrada pelo professor Bruno Nogueira na Universidade Federal de Alagoas. Aqui, você encontrará exemplos práticos, projetos e simulações de diversos circuitos lógicos utilizando as ferramentas Quartus e Questa. O material aqui presente visa auxiliar no aprendizado e na compreensão dos conceitos fundamentais abordados na disciplina.
 
 ## 2. Instalação
 
