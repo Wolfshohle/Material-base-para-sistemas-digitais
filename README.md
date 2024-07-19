@@ -1,2 +1,132 @@
-# Material base para sistemas digitais
- Material de base para ser utilizado na matéria de sistemas digitais
+# Projeto de Circuitos Lógicos
+
+## Sumário
+
+- [1. Introdução](#1-introdução)
+- [2. Instalação](#2-instalação)
+  - [2.1 Instalação do Quartus e Questa](#21-instalação-do-quartus-e-questa)
+  - [2.2 Gerando a licença de ativação do Questa](#22-gerando-a-licença-de-ativação-do-questa)
+  - [2.3 Possíveis erros de instalação e soluções](#23-possíveis-erros-de-instalação-e-soluções)
+- [3. Projeto](#3-projeto)
+  - [3.1 Criação e abertura de projeto](#31-criação-e-abertura-de-projeto)
+  - [3.2 Primeiros passos no projeto](#32-primeiros-passos-no-projeto)
+  - [3.3 Projetando](#33-projetando)
+- [4. Simulação](#4-simulação)
+  - [4.1 Criando uma simulação](#41-criando-uma-simulação)
+  - [4.2 Simulando](#42-simulando)
+  - [4.3 Possíveis erros de simulação e resoluções](#43-possíveis-erros-de-simulação-e-resoluções)
+- [5. Codificador](#5-codificador)
+- [6. Decodificador](#6-decodificador)
+- [7. Multiplexador](#7-multiplexador)
+- [8. Demultiplexador](#8-demultiplexador)
+- [9. Somador/Subtrator](#9-somadorsubtrator)
+- [10. Comparador de magnitude](#10-comparador-de-magnitude)
+- [11. Deslocador de bits](#11-deslocador-de-bits)
+- [12. Circuitos realimentados](#12-circuitos-realimentados)
+- [13. Clock](#13-clock)
+- [14. Latches](#14-latches)
+- [15. Flip-flops](#15-flip-flops)
+- [16. Registradores](#16-registradores)
+- [17. Incrementador](#17-incrementador)
+
+## 1. Introdução
+
+Este repositório contém o projeto e a simulação de diversos circuitos lógicos utilizando Quartus e Questa.
+
+## 2. Instalação
+
+### 2.1 Instalação do Quartus e Questa
+
+Para instalar o Quartus e Questa, siga os passos específicos para o seu sistema operacional disponíveis na documentação oficial.
+
+### 2.2 Gerando a licença de ativação do Questa
+
+Após a instalação, é necessário gerar uma licença de ativação para o Questa. Detalhes sobre como fazer isso podem ser encontrados na documentação da Mentor Graphics.
+
+### 2.3 Possíveis erros de instalação e soluções
+
+Caso encontre problemas durante a instalação, consulte a seção de solução de problemas na documentação oficial ou na comunidade online.
+
+## 3. Projeto
+
+### 3.1 Criação e abertura de projeto
+
+Para iniciar um novo projeto no Quartus, siga os passos para criar e abrir um novo projeto conforme descrito na documentação.
+
+### 3.2 Primeiros passos no projeto
+
+Após criar o projeto, inicie configurando as propriedades do projeto e adicionando os arquivos necessários.
+
+### 3.3 Projetando
+
+Desenvolva o projeto de acordo com as especificações do circuito lógico desejado, utilizando as ferramentas disponíveis no Quartus.
+
+## 4. Simulação
+
+### 4.1 Criando uma simulação
+
+No Quartus, é possível criar simulações para verificar o comportamento do circuito antes da implementação física.
+
+### 4.2 Simulando
+
+Execute a simulação para validar o funcionamento do circuito lógico projetado. Analise os resultados obtidos durante a simulação.
+
+### 4.3 Possíveis erros de simulação e resoluções
+
+Se encontrar problemas durante a simulação, verifique as configurações de simulação, erros de sintaxe no código do circuito ou conflitos nas configurações de simulação e suas resoluções.
+
+## 5. Codificador
+
+### 5.1 Descrição do Codificador
+
+Este módulo codifica um conjunto de entradas em uma saída específica.
+
+## 6. Decodificador
+
+### 6.1 Descrição do Decodificador
+
+Este módulo decodifica um conjunto de entradas codificadas.
+
+## 7. Multiplexador
+
+### 7.1 Funcionamento do Multiplexador
+
+O multiplexador seleciona uma entrada de várias para ser transmitida através de um único canal.
+
+## 8. Demultiplexador
+
+### 8.1 Funcionamento do Demultiplexador
+
+O demultiplexador roteia dados de um único canal para vários canais de saída.
+
+## 9. Somador/Subtrator
+
+### 9.1 Descrição do Somador/Subtrator
+
+Este circuito realiza operações de soma e subtração com números binários.
+
+## 10. Comparador de magnitude
+
+### 10.1 Funcionamento do Comparador de Magnitude
+
+Este módulo compara duas entradas binárias e determina qual é maior.
+
+## 11. Deslocador de bits
+
+### 11.1 Descrição do Deslocador de Bits
+
+O deslocador de bits move os bits em uma entrada para a esquerda ou direita.
+
+## 12. Circuitos realimentados
+
+### 12.1 Explicação de Circuitos Realimentados
+
+Circuitos que utilizam realimentação para controle e estabilidade.
+
+## 13. Clock
+
+### 13.1 Utilização do Clock
+
+O clock é utilizado para sincronizar operações em circuitos sequenciais.
+
+## 14. L
