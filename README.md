@@ -129,4 +129,26 @@ Circuitos que utilizam realimentação para controle e estabilidade.
 
 O clock é utilizado para sincronizar operações em circuitos sequenciais.
 
-## 14. L
+## 14. Latches
+
+### 14.1 Descrição dos Latches
+
+Os latches são elementos de memória básicos em circuitos digitais.
+
+## 15. Flip-flops
+
+### 15.1 Funcionamento dos Flip-flops
+
+Flip-flops são dispositivos de memória sincronizados usados em circuitos sequenciais.
+
+## 16. Registradores
+
+### 16.1 Descrição dos Registradores
+
+Registradores armazenam dados binários em circuitos digitais.
+
+## 17. Incrementador
+
+### 17.1 Funcionamento do Incrementador
+
+Este módulo incrementa um número binário em uma unidade.
