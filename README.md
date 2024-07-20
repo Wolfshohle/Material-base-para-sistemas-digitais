@@ -36,7 +36,7 @@ Este repositório é um recurso complementar destinado aos estudantes da discipl
 
 ### 2.1 Instalação do Quartus e Questa
 &nbsp;
-Esta seção é dedicada à instalação do programa Quartus e do simulador Questa, que serão fundamentais para a montagem e simulação dos circuitos durante o curso. Essas ferramentas serão utilizadas para o desenvolvimento prático dos projetos abordados na disciplina.
+Esta seção é dedicada à instalação do programa Quartus e do simulador Questa, que serão fundamentais para a montagem e simulação dos circuitos durante o curso. Essas ferramentas serão utilizadas para o desenvolvimento prático dos projetos abordados na disciplina. Todos os passos serão realizados para o ambiente Windows, sendo a instalação para o ambiente Linux semelhante.
 
 #### 2.1.1 Download
 &nbsp;
@@ -55,6 +55,9 @@ Para iniciar a instalação, verifique o sistema operacional e a versão do soft
 <br>
 
 ![Aba de verificação](Assets/siteintelversao.png)
+
+&nbsp;
+É aconselhável utilizar o software em um ambiente Windows para melhor estabilidade. No entanto, também é possível executá-lo em uma máquina virtual.
 
 ### 2.2 Gerando a licença de ativação do Questa
 
