@@ -100,6 +100,11 @@ Selecione a pasta de instalação do Quartus. Caso deseje compartilhar os projet
 
 ![Passo 3](Assets/instladorpasta.png)
 
+&nbsp;
+Na parte de seleção de componentes selecione os seguintes componentes:
+<br>
+
+![Passo 3](Assets/selectcomponents.png)
 
 
 
