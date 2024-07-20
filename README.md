@@ -82,7 +82,8 @@ E o suporte para o modelo de FPGA utilizado. Em nosso caso será o Cyclone V.
 
 #### 2.1.2 Instalação
 &nbsp;
-Após o download, coloque os três arquivos no mesmo diretório. Você pode escolher o diretório de sua preferência, contanto que todos os três arquivos estejam juntos.
+Após o download, coloque os três arquivos no mesmo diretório. Você pode escolher o diretório de sua preferência, contanto que todos os três arquivos estejam juntos. Em seguida, inicie a instalação pelo executável: QuartusLiteSetup-21.1.0.842-windows.exe
+
 <br>
 
 ![Aba de verificação](Assets/instalacao.png)
