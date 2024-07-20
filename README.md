@@ -31,21 +31,21 @@
 - [17. Incrementador](#17-incrementador)
 
 ## 1. Introdução
-<br>
+&nbsp;
 Este repositório é um recurso complementar destinado aos estudantes da disciplina de sistemas digitais ministrada pelo professor Bruno Nogueira na Universidade Federal de Alagoas. Aqui, você encontrará exemplos práticos, projetos e simulações de diversos circuitos lógicos utilizando as ferramentas Quartus e Questa. O material aqui presente visa auxiliar no aprendizado e na compreensão dos conceitos fundamentais abordados na disciplina.
-<br>
+&nbsp;
 
 ## 2. Instalação
 
 ### 2.1 Instalação do Quartus e Questa
-<br>
+&nbsp;
 Esta seção é dedicada à instalação do programa Quartus e do simulador Questa, que serão fundamentais para a montagem e simulação dos circuitos durante o curso. Essas ferramentas serão utilizadas para o desenvolvimento prático dos projetos abordados na disciplina.
-<br>
+&nbsp;
 
 #### 2.1.1 Primeiros passos
-<br>
+&nbsp;
 Para iniciar a instalação, é necessário realizar o download dos softwares Quartus e Questa. Para baixar os softwares, acesse o link abaixo:
-<br>
+&nbsp;
 
 [Download do Quartus e Questa](https://www.intel.com.br/content/www/br/pt/products/details/fpga/development-tools/quartus-prime/resource.html)
 
