@@ -41,18 +41,18 @@ Esta seção é dedicada à instalação do programa Quartus e do simulador Ques
 
 #### 2.1.1 Download
 &nbsp;
-Para começar precisamos ir ao site da intel para realizar o download do Quartus e do software de simulação que é o Questa.
+Para começar precisamos ir ao site da intel para realizar o download do Quartus e do software de simulação Questa.
 
 [Download do Quartus e Questa](https://www.intel.com.br/content/www/br/pt/products/details/fpga/development-tools/quartus-prime/resource.html)
 
 &nbsp;
-Em seguida, já no site da intel e na aba de downloads, selecione a Lite Edition.
+Em seguida, já no site da intel e na aba de downloads, selecione a opção Lite Edition.
 <br>
 
 ![Site Intel Download](Assets/siteinteldownload.png)
 
 &nbsp;
-Verifique o sistema operacional e a versão do software. Recomenda-se baixar versões mais antigas, como a 21.1 do Quartus, devido à maior estabilidade em comparação com versões mais recentes.
+Verifique o sistema operacional e a versão. Recomenda-se baixar versões mais antigas, como a 21.1 do Quartus, devido à maior estabilidade em comparação com as mais recentes.
 <br>
 
 ![Aba de verificação](Assets/siteintelversao.png)
