@@ -48,7 +48,7 @@ Para iniciar a instalação, é necessário realizar o download dos softwares Qu
 
 &nbsp;
 Em seguida, já no site da intel e na aba de downloads, selecione a Lite Edition
-![Site Intel Download](assets/siteinteldownload.png)
+![Site Intel Download](Assets/siteinteldownload.png)
 
 ### 2.2 Gerando a licença de ativação do Questa
 
