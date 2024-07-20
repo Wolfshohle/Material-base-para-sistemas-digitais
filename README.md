@@ -63,6 +63,7 @@ Para iniciar a instalação, verifique o sistema operacional e a versão do soft
 &nbsp;
 Faça o download dos seguintes componentes:
 <br>
+<br>
 Quartus
 <br>
 
