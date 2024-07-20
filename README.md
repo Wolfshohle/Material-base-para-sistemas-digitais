@@ -58,6 +58,11 @@ Para iniciar a instalação, verifique o sistema operacional e a versão do soft
 
 &nbsp;
 É aconselhável utilizar o software em um ambiente Windows para melhor estabilidade. No entanto, também é possível executá-lo em uma máquina virtual.
+&nbsp;
+Mais a baixo na parte de Download selecione a aba individual files.
+<br>
+
+![Aba de verificação](Assets/downloadsindividualfiles.png)
 
 ### 2.2 Gerando a licença de ativação do Questa
 
