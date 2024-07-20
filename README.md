@@ -50,7 +50,6 @@ Em seguida, já no site da intel e na aba de downloads, selecione a Lite Edition
 
 ![Site Intel Download](Assets/siteinteldownload.png)
 
-<br>
 &nbsp;
 Para iniciar a instalação, verifique o sistema operacional e a versão do software. Recomenda-se baixar versões mais antigas, como a 21.1 do Quartus, devido à maior estabilidade em comparação com versões mais recentes.
 <br>
@@ -59,6 +58,7 @@ Para iniciar a instalação, verifique o sistema operacional e a versão do soft
 
 &nbsp;
 É aconselhável utilizar o software em um ambiente Windows para melhor estabilidade. No entanto, também é possível executá-lo em uma máquina virtual.
+<br>
 &nbsp;
 Mais a baixo na parte de Download selecione a aba individual files.
 <br>
