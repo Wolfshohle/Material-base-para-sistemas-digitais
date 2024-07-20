@@ -94,6 +94,14 @@ Siga os seguintes passos:
 ![Passo 1](Assets/instalador1.png)
 ![Passo 2](Assets/instalador2.png)
 
+&nbsp;
+Selecione a pasta de instalação do Quartus. Caso deseje compartilhar os projetos e circuitos feitos o ideal é não instalar em uma pasta com acesso de administrador, pois o Quartus insere uma chave de direitos autorais nos arquivos, esse problema pode ser fácilmente resolvido instalando o Quartus em uma pasta sem acesso de administrador ou apenas copiado a pasta do projeto para uma outra que também não possua acesso de administrador.
+<br>
+
+![Passo 3](Assets/instladorpasta.png)
+
+
+
 
 ### 2.2 Gerando a licença de ativação do Questa
 
