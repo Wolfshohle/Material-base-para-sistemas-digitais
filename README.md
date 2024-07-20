@@ -91,7 +91,8 @@ Após o download, coloque os três arquivos no mesmo diretório. Você pode esco
 Siga os seguintes passos:
 <br>
 
-![Passo 1](instalador1.png)
+![Passo 1](Assets/instalador1.png)
+![Passo 2](Assets/instalador2.png)
 
 
 ### 2.2 Gerando a licença de ativação do Questa
