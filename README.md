@@ -106,6 +106,8 @@ Na parte de seleção de componentes selecione os seguintes componentes:
 
 ![Passo 3](Assets/selectcomponents.png)
 
+&nbsp;
+Agora basta esperar a instalação terminar para prosseguir com a licença do Questa.
 
 
 ### 2.2 Gerando a licença de ativação do Questa
