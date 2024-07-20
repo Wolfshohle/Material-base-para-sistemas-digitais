@@ -47,7 +47,8 @@ Para iniciar a instalação, é necessário realizar o download dos softwares Qu
 [Download do Quartus e Questa](https://www.intel.com.br/content/www/br/pt/products/details/fpga/development-tools/quartus-prime/resource.html)
 
 &nbsp;
-
+Em seguida, já no site da intel e na aba de downloads, selecione a Lite Edition
+![Site Intel Download](assets/siteinteldownload.png)
 
 ### 2.2 Gerando a licença de ativação do Questa
 
