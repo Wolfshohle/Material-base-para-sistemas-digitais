@@ -4,7 +4,7 @@
 - [2. Instalação](#2-instalação)
   - [2.1 Download e instalação do Quartus e Questa](#21-download-e-instalação-do-quartus-e-questa)
     - [2.1.1 Download](#211-download)
-    - [2.1.1 Download](#212-instalação)     
+    - [2.1.2 Instalação](#212-instalação)     
   - [2.2 Gerando a licença de ativação do Questa](#22-gerando-a-licença-de-ativação-do-questa)
   - [2.3 Possíveis erros de instalação e soluções](#23-possíveis-erros-de-instalação-e-soluções)
 - [3. Projeto](#3-projeto)
