@@ -33,6 +33,7 @@
 &nbsp;
 Este repositório é um recurso complementar destinado aos estudantes da disciplina de sistemas digitais ministrada pelo professor Bruno Nogueira na Universidade Federal de Alagoas. Aqui, você encontrará exemplos práticos, projetos e simulações de diversos circuitos lógicos utilizando as ferramentas Quartus e Questa. O material aqui presente visa auxiliar no aprendizado e na compreensão dos conceitos fundamentais abordados na disciplina.
 
+
 ## 2. Instalação
 
 ### 2.1 Download e Instalação do Quartus e Questa
@@ -78,7 +79,18 @@ E o suporte para o modelo de FPGA utilizado. Em nosso caso será o Cyclone V.
 
 ![Aba de verificação](Assets/intelcyclone5.png)
 
+
 #### 2.1.2 Instalação
+&nbsp;
+Após o download, coloque os três arquivos no mesmo diretório. Você pode escolher o diretório de sua preferência, contanto que todos os três arquivos estejam juntos.
+<br>
+
+![Aba de verificação](Assets/instalacao.png)
+
+
+
+
+
 
 ### 2.2 Gerando a licença de ativação do Questa
 
