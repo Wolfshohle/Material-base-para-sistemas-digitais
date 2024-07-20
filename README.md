@@ -59,11 +59,22 @@ Para iniciar a instalação, verifique o sistema operacional e a versão do soft
 &nbsp;
 É aconselhável utilizar o software em um ambiente Windows para melhor estabilidade. No entanto, também é possível executá-lo em uma máquina virtual.
 <br>
+
 &nbsp;
-Mais a baixo na parte de Download selecione a aba individual files.
+Faça o download dos seguintes componentes:
+<br>
+Quartus
 <br>
 
-![Aba de verificação](Assets/downloadsindividualfiles.png)
+![Aba de verificação](Assets/intelquartusprime.png)
+Questa
+<br>
+
+![Aba de verificação](Assets/questaintelfpga.png)
+E o suporte para o modelo de FPGA utilizado que é o Cyclone V
+<br>
+
+![Aba de verificação](Assets/intelcyclone5.png)
 
 ### 2.2 Gerando a licença de ativação do Questa
 
