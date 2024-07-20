@@ -2,8 +2,9 @@
 
 - [1. Introdução](#1-introdução)
 - [2. Instalação](#2-instalação)
-  - [2.1 Instalação do Quartus e Questa](#21-instalação-do-quartus-e-questa)
-    - [2.1.1 Download](#211-Download) 
+  - [2.1 Download e instalação do Quartus e Questa](#21-download-e-instalação-do-quartus-e-questa)
+    - [2.1.1 Download](#211-download)
+    - [2.1.1 Download](#212-instalação)     
   - [2.2 Gerando a licença de ativação do Questa](#22-gerando-a-licença-de-ativação-do-questa)
   - [2.3 Possíveis erros de instalação e soluções](#23-possíveis-erros-de-instalação-e-soluções)
 - [3. Projeto](#3-projeto)
@@ -34,7 +35,7 @@ Este repositório é um recurso complementar destinado aos estudantes da discipl
 
 ## 2. Instalação
 
-### 2.1 Instalação do Quartus e Questa
+### 2.1 Download e Instalação do Quartus e Questa
 &nbsp;
 Esta seção é dedicada à instalação do programa Quartus e do simulador Questa, que serão fundamentais para a montagem e simulação dos circuitos durante o curso. Essas ferramentas serão utilizadas para o desenvolvimento prático dos projetos abordados na disciplina. Todos os passos serão realizados para o ambiente Windows, sendo a instalação para o ambiente Linux semelhante.
 
@@ -76,6 +77,8 @@ E o suporte para o modelo de FPGA utilizado. Em nosso caso será o Cyclone V.
 <br>
 
 ![Aba de verificação](Assets/intelcyclone5.png)
+
+#### 2.1.2 Instalação
 
 ### 2.2 Gerando a licença de ativação do Questa
 
