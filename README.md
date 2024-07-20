@@ -64,15 +64,15 @@ Para iniciar a instalação, verifique o sistema operacional e a versão do soft
 Faça o download dos seguintes componentes:
 <br>
 <br>
-Quartus
+Quartus.
 <br>
 
 ![Aba de verificação](Assets/intelquartusprime.png)
-Questa
+Questa.
 <br>
 
 ![Aba de verificação](Assets/questaintelfpga.png)
-E o suporte para o modelo de FPGA utilizado que é o Cyclone V
+E o suporte para o modelo de FPGA utilizado. Em nosso caso será o Cyclone V.
 <br>
 
 ![Aba de verificação](Assets/intelcyclone5.png)
