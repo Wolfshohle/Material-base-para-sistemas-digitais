@@ -1,5 +1,3 @@
-# Projeto de Circuitos Lógicos
-
 ## Sumário
 
 - [1. Introdução](#1-introdução)
