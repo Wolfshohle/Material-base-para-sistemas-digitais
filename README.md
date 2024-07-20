@@ -64,11 +64,11 @@ Para iniciar a instalação, verifique o sistema operacional e a versão do soft
 Faça o download dos seguintes componentes:
 <br>
 <br>
-Quartus.
+Quartus;
 <br>
 
 ![Aba de verificação](Assets/intelquartusprime.png)
-Questa.
+Questa;
 <br>
 
 ![Aba de verificação](Assets/questaintelfpga.png)
